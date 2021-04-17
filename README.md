@@ -1,1 +1,1 @@
-### Hello Word! 👋
+### Hello World! 👋
