@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefsilvaf)](https://github.com/alefsilvaf/github-readme-stats)
-<p 'a' </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefsilvaf&layout=compact)](https://github.com/alefsilvaf/github-readme-stats)
+
 
 
